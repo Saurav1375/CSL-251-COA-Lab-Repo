@@ -1,0 +1,1 @@
+{"name":"Local: Quest1","url":"c:\\Users\\gupta\\OneDrive\\Desktop\\CSL251-Lab\\Lab-5\\Quest1.cpp","tests":[{"id":1738149078833,"input":"5\n8\n10000\n01000\n10000010\n10000001\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\gupta\\OneDrive\\Desktop\\CSL251-Lab\\Lab-5\\Quest1.cpp","group":"local","local":true}
